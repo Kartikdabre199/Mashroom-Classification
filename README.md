@@ -6,4 +6,4 @@ Mushroom hunting (otherwise known as "shrooming") is enjoying new peaks in popul
 
 # Problem statement 
 
-We have a Mushroom Data which classified if mushroom are Editable or Poisonous , According to features in it.   We will try to use this data to create a model, Which tried to predict if a mushroom is edible or poisonous.
+We have a Mushroom Data which classified if mushroom are Editable or Poisonous , According to features in it.   We will try to use this data to create a model, Which tried to predict if a mushroom is edible or poisonous .
